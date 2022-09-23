@@ -7,6 +7,7 @@ I can print my name on the terminal using the folowing languages:
   - Javascript
   - Python
   - Java
+  
 I would love to learn machine learning and probably major in Computer Vision
 
 
