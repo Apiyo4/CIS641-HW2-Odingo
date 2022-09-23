@@ -1,5 +1,4 @@
 ![apiyo-pointer](./images/apiyo.svg)
-# CIS641-HW2-Odingo
 ## Heading
 My name is Annette Apiyo Odingo. Apiyo is a luo name meaning firstborn twin girl.
 ### Technical Background
